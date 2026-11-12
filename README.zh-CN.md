@@ -2,6 +2,10 @@
 
 [English](README.md) / [日本語](README.ja.md) / **简体中文** / [한국어](README.ko.md)
 
+![gyogy6 Layer Color Viewer 演示](docs/demo.gif)
+
+*面板的操作演示（示例数据）：列出颜色 → 复制脸部肤色 → 粘贴到身体 → 按 HEX 筛选。*
+
 Substance 3D Painter 的 Python 插件。
 按纹理集（Texture Set）列出图层中使用的颜色，便于一目了然地确认。
 双击即可复制颜色，并粘贴到其他图层。
@@ -25,6 +29,7 @@ Substance 3D Painter 的 Python 插件。
 | 文件 | 说明 |
 |---|---|
 | `gyogy6_layer_color_viewer/` | 插件本体（整个文件夹一起使用） |
+| `docs/demo.gif` | 本说明书的演示动画 |
 | `README.zh-CN.md` 等 | 本说明书（英语、日语、中文、韩语） |
 | `LICENSE.md` | 使用条款 |
 

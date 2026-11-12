@@ -2,6 +2,10 @@
 
 **English** / [日本語](README.ja.md) / [简体中文](README.zh-CN.md) / [한국어](README.ko.md)
 
+![gyogy6 Layer Color Viewer demo](docs/demo.gif)
+
+*The panel in action (sample data): list the colors, copy the face skin color, paste it into the body, filter by HEX.*
+
 A Python plugin for Substance 3D Painter.
 It lists the colors used by your layers, Texture Set by Texture Set, so you can check them at a glance.
 Copy a color with a double-click and paste it into other layers.
@@ -25,6 +29,7 @@ Besides Fill layer colors, the color parameters of .sbsar materials, generators 
 | File | Description |
 |---|---|
 | `gyogy6_layer_color_viewer/` | The plugin (use the whole folder) |
+| `docs/demo.gif` | Demo animation for this manual |
 | `README.md` and others | This manual (English, Japanese, Chinese, Korean) |
 | `LICENSE.md` | Terms of use |
 

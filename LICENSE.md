@@ -10,7 +10,7 @@ The Japanese version is the official text. Other languages are translations for 
 対象製品：gyogy6 Layer Color Viewer（無料版） v1.0.0
 適用する共通規約：gyogy6 ツール利用規約 バージョン 1.1
 
-1. **対象ファイル**：`gyogy6_layer_color_viewer` フォルダ内のファイル一式、README 一式、本書。
+1. **対象ファイル**：`gyogy6_layer_color_viewer` フォルダ内のファイル一式、README 一式、`docs/demo.gif`、本書。
 2. **価格と利用範囲**：無料です。利用人数・台数の制限はありません。個人・法人、商用・非商用を問わず利用できます。
 3. **成果物**：本製品を使って作ったテクスチャ、プロジェクトなどの成果物は、商用利用できます。クレジット表記は任意です。
 4. **公式配布場所**：GitHub の gyogy6 アカウント（https://github.com/gyogy6 ）、および権利者が今後告知する gyogy6 の BOOTH ショップ。
@@ -29,7 +29,7 @@ The Japanese version is the official text. Other languages are translations for 
 Product: gyogy6 Layer Color Viewer (Free) v1.0.0
 Common terms applied: gyogy6 Tool Terms of Use, version 1.1
 
-1. **Covered files**: all files in the `gyogy6_layer_color_viewer` folder, the README files and this document.
+1. **Covered files**: all files in the `gyogy6_layer_color_viewer` folder, the README files, `docs/demo.gif` and this document.
 2. **Price and scope**: Free of charge. No limit on the number of users or machines. May be used by individuals and legal entities, for commercial and non-commercial purposes.
 3. **Output**: Textures, projects and other output made with this product may be used commercially. Credit is optional.
 4. **Official Distribution Channels**: the gyogy6 account on GitHub (https://github.com/gyogy6 ) and the gyogy6 BOOTH shop to be announced by the Licensor.
@@ -48,7 +48,7 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.1
 适用产品：gyogy6 Layer Color Viewer（免费版）v1.0.0
 适用的通用条款：gyogy6 工具使用条款 版本 1.1
 
-1. **适用文件**：`gyogy6_layer_color_viewer` 文件夹内的全部文件、README 文件及本文件。
+1. **适用文件**：`gyogy6_layer_color_viewer` 文件夹内的全部文件、README 文件、`docs/demo.gif` 及本文件。
 2. **价格与使用范围**：免费。不限使用人数和设备数量。个人和法人均可使用，商业及非商业用途均可。
 3. **成果物**：使用本产品制作的纹理、项目等成果物可用于商业用途。署名为可选项。
 4. **官方发布渠道**：GitHub 上的 gyogy6 账号（https://github.com/gyogy6 ），以及权利人今后公布的 gyogy6 BOOTH 商店。
@@ -67,7 +67,7 @@ Common terms applied: gyogy6 Tool Terms of Use, version 1.1
 대상 제품: gyogy6 Layer Color Viewer (무료판) v1.0.0
 적용되는 공통 약관: gyogy6 툴 이용약관 버전 1.1
 
-1. **대상 파일**: `gyogy6_layer_color_viewer` 폴더 안의 파일 일체, README 일체 및 본 문서.
+1. **대상 파일**: `gyogy6_layer_color_viewer` 폴더 안의 파일 일체, README 일체, `docs/demo.gif` 및 본 문서.
 2. **가격과 이용 범위**: 무료입니다. 이용 인원과 대수에 제한이 없습니다. 개인·법인, 상업적·비상업적 용도를 불문하고 이용할 수 있습니다.
 3. **성과물**: 본 제품을 사용하여 만든 텍스처, 프로젝트 등의 성과물은 상업적으로 이용할 수 있습니다. 크레디트 표기는 선택 사항입니다.
 4. **공식 배포처**: GitHub의 gyogy6 계정(https://github.com/gyogy6 ) 및 권리자가 앞으로 공지할 gyogy6 BOOTH 샵.

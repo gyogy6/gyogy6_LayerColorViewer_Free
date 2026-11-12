@@ -2,6 +2,10 @@
 
 [English](README.md) / [日本語](README.ja.md) / [简体中文](README.zh-CN.md) / **한국어**
 
+![gyogy6 Layer Color Viewer 데모](docs/demo.gif)
+
+*패널 동작 (샘플 데이터): 색 목록 → 얼굴 피부색 복사 → 몸에 붙여 넣기 → HEX로 걸러내기.*
+
 Substance 3D Painter용 Python 플러그인입니다.
 레이어에서 사용하는 색을 텍스처 세트(Texture Set)별로 목록으로 확인할 수 있습니다.
 목록의 색은 더블클릭으로 복사하고, 다른 레이어에 붙여 넣을 수 있습니다.
@@ -25,6 +29,7 @@ Fill 레이어의 색 외에도 .sbsar 머티리얼, 제너레이터, 필터의 
 | 파일 | 내용 |
 |---|---|
 | `gyogy6_layer_color_viewer/` | 플러그인 본체 (폴더째로 사용합니다) |
+| `docs/demo.gif` | 이 설명서의 데모 애니메이션 |
 | `README.ko.md` 등 | 이 설명서 (영어, 일본어, 중국어, 한국어) |
 | `LICENSE.md` | 이용약관 |
 

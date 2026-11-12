@@ -2,6 +2,10 @@
 
 [English](README.md) / **日本語** / [简体中文](README.zh-CN.md) / [한국어](README.ko.md)
 
+![gyogy6 Layer Color Viewer のデモ](docs/demo.gif)
+
+*パネルの動き（サンプルのデータ）：色の一覧 → 顔の肌の色をコピー → 体に貼り付け → HEX で絞り込み。*
+
 Substance 3D Painter 用の Python プラグインです。
 レイヤーで使っている色を、テクスチャセットごとに一覧で確認できます。
 一覧の色はダブルクリックでコピーでき、ほかのレイヤーに貼り付けることもできます。
@@ -25,6 +29,7 @@ Fill レイヤーの色のほか、.sbsar のマテリアル・ジェネレー�
 | ファイル | 内容 |
 |---|---|
 | `gyogy6_layer_color_viewer/` | プラグイン本体（フォルダごと使います） |
+| `docs/demo.gif` | この説明書のデモ画像 |
 | `README.ja.md` ほか | この説明書（英語・日本語・中国語・韓国語） |
 | `LICENSE.md` | 利用規約 |
 
